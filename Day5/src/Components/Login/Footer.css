@@ -1,0 +1,15 @@
+.footer {
+    background-color: #e0be56;
+    padding: 1px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: none; 
+  }
+  
+  .show-footer {
+    display: block; 
+  }
+

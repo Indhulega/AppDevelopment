@@ -1,0 +1,200 @@
+.abou {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .abou .overlap-group-wrapper {
+    background-color: #ffffff;
+    height: 2945px;
+    overflow: hidden;
+    width: 1413px;
+  }
+  
+  .abou .overlap-group {
+    background-image: url('https://images.pexels.com/photos/6995247/pexels-photo-6995247.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 2945px;
+    position: relative;
+    width: 1469px;
+  }
+  
+  .abou .meal-miracle {
+    height: 27px;
+    left: 42px;
+    position: absolute;
+    top: 68px;
+    width: 256px;
+  }
+  
+  .abou .text-wrapper {
+    color: #000000;
+    font-family: "Times New Roman-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 79px;
+    letter-spacing: 3px;
+    line-height: 80px;
+    position: absolute;
+    top: 200px;
+    width: 1325px;
+  }
+  
+  .abou .div {
+    color: #000000;
+    font-family: "Notable", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    margin-left: 35%;
+    letter-spacing: 3px;
+    line-height: 100px;
+    position: absolute;
+    top: 412px;
+    width: 716px;
+  }
+  
+  .abou .overlap {
+    height: 411px;
+    left: 77px;
+    position: absolute;
+    top: 500px;
+    width: 1350px;
+  }
+  
+  .abou .at-mealmiracle-we {
+    color: #000000;
+    font-family: "Times New Roman-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 3px;
+    line-height: 80px;
+    position: absolute;
+    top: 0;
+    width: 1350px;
+  }
+  
+  .abou .text-wrapper-2 {
+    color: #000000;
+    font-family: "Notable", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    margin-left: 33%;
+    letter-spacing: 3px;
+    line-height: 80px;
+    position: absolute;
+    margin-top: 420px;
+    white-space: nowrap;
+    width: 708px;
+  }
+  
+  .abou .facilitating-food {
+    color: #000000;
+    font-family: "Notable", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 77px;
+    letter-spacing: 3px;
+    line-height: 80px;
+    position: absolute;
+    top: 1032px;
+    width: 1327px;
+  }
+  
+  .abou .span {
+    color: #000000;
+    font-family: "Notable", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    line-height: 80px;
+  }
+  
+  .abou .text-wrapper-3 {
+    font-family: "Times New Roman-Regular", Helvetica;
+    font-size: 30px;
+    letter-spacing: 2px;
+  }
+  
+  .abou .text-wrapper-4 {
+    color: #000000;
+    font-family: "Notable", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 518px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+    white-space: nowrap;
+    width: 392px;
+  }
+  
+  .abou .empowering {
+    color: #000000;
+    font-family: "Notable", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 79px;
+    letter-spacing: 3px;
+    line-height: 80px;
+    position: absolute;
+    top: 1387px;
+    width: 1323px;
+  }
+  
+  .abou .our-team-behind {
+    color: #000000;
+    font-family: "Notable", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 79px;
+    letter-spacing: 3px;
+    line-height: 80px;
+    position: absolute;
+    top: 1737px;
+    width: 1309px;
+  }
+  
+  .abou .contact-us-have {
+    color: #000000;
+    font-family: "Notable", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 79px;
+    letter-spacing: 3px;
+    line-height: 80px;
+    position: absolute;
+    top: 2127px;
+    width: 1309px;
+  }
+  
+  .abou .p {
+    color: #f60505;
+    font-family: "Notable", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    margin-left: 20%;
+    letter-spacing: 3px;
+    line-height: 80px;
+    position: absolute;
+    top: 2445px;
+    width: 1041px;
+  }
+  .logo1 {
+    -webkit-text-stroke: 1px #000000;
+    color: transparent;
+    font-family: "Inconsolata", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 2px;
+      position: relative; 
+      cursor: pointer;
+
+  }
+  .logo1 p{
+    cursor: pointer;
+  }
