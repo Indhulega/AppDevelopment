@@ -1,0 +1,41 @@
+.feedback-container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(145deg, #f9f9f9, #897d7d); 
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .stars {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .star {
+    cursor: pointer;
+    font-size: 24px;
+    margin: 5px;
+  }
+  
+  .star.selected {
+    color: #ffdb58; 
+  }
+  
+  p {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  .feed
+  {
+    background-image: url('https://images.pexels.com/photos/355770/pexels-photo-355770.jpeg');
+    height: 100%;
+    margin-top: -20px;
+    width: 100%;
+  }
+  
+  
